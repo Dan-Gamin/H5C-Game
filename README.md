@@ -1,1 +1,4 @@
-# HTML5-Canvas-Game
+#### HTML 5 Canvas 
+# Game
+
+Simple Canvas game
